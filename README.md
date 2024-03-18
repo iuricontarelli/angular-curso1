@@ -1,6 +1,11 @@
-# CursoAngular
+# Curso Angular
+
+Este é um projeto do curso de Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+
+## Instalar Modulos
+npm i
 
 ## Development server
 
@@ -25,3 +30,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Feedback
+
+Se você tiver algum feedback, por favor me envie um e-mail 1905iuri@gmail.com ou envie uma mensagem no meu [Linkedin](https://www.linkedin.com/in/iuricontarelli/).
+
